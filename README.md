@@ -73,4 +73,3 @@ As imagens dos cards de produtos e da galeria de inspirações foram obtidas gra
 *   As imagens da galeria de inspirações, avatares de depoimentos e ícones sociais são placeholders e devem ser substituídas por imagens reais conforme necessário.
 *   O formulário de contato possui apenas validação front-end básica (campos obrigatórios) e não envia dados para um servidor.
 *   O scroll suave entre as seções é implementado via JavaScript.
-
