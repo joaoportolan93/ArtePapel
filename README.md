@@ -36,25 +36,6 @@ artepapel-site-briefing/
 1.  Clone ou baixe este repositório.
 2.  Abra o arquivo `index.html` em seu navegador web.
 
-## Imagens Utilizadas
-
-As imagens dos cards de produtos e da galeria de inspirações foram obtidas gratuitamente no banco de imagens Unsplash:
-- Papelaria Personalizada: https://unsplash.com/photos/1515378791036-0648a3ef77b2
-- Embalagens Criativas: https://unsplash.com/photos/1519125323398-675f0ddb6308
-- Impressos Gráficos: https://unsplash.com/photos/1464983953574-0892a716854b
-- Galeria: 
-  - https://unsplash.com/photos/1506744038136-46273834b3fb
-  - https://unsplash.com/photos/1519125323398-675f0ddb6308
-  - https://unsplash.com/photos/1515378791036-0648a3ef77b2
-  - https://unsplash.com/photos/1464983953574-0892a716854b
-
-## Como Publicar no GitHub Pages
-
-1. Faça login no GitHub e crie um repositório público para o projeto.
-2. Faça push de todos os arquivos do projeto para o repositório.
-3. No GitHub, acesse as configurações do repositório (Settings > Pages).
-4. Em "Source", selecione a branch principal (geralmente `main` ou `master`) e a pasta raiz (`/`).
-5. O GitHub Pages irá gerar um link público para o seu site.
 
 ## Observações de Personalização
 
@@ -62,10 +43,6 @@ As imagens dos cards de produtos e da galeria de inspirações foram obtidas gra
 - Para alterar textos, cores ou estrutura, edite os arquivos HTML e CSS conforme desejar.
 - O site é totalmente responsivo e pode ser visualizado em qualquer dispositivo moderno.
 
-## Créditos
-
-- Imagens: Unsplash (https://unsplash.com/)
-- Ícones sociais: Font Awesome (https://fontawesome.com/)
 
 ## Observações
 
